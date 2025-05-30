@@ -6,15 +6,10 @@ export const Home = () => {
   cleanPage(main);
   main.innerHTML = `
     <section class="home">
-    <p>Hey, I'm</p>
+    <p>Hi, I'm</p>
     <h1>Ricardo Osuna</h1>
-    <p>I'm a software engineer based in Spain, 
-    Canada and also a communication and journalism student. 
-    I enjoy creating things that live on the internet, 
-    whether that be websites, applications, or anything in between. 
-    I have been freelancing for a year now while studying at the university and 
-    I've manage to gain a decent amount of experience and valuable knowledge 
-    from all different kinds of fields throughout my projects/work.</p>
+    <p> I’m a Full-Stack Developer trainee at The Power MBA with a DAM technical degree and a degree in Sports Sciences—plus master’s in Teaching, Performance, Nutrition, and Injury Readaptation, where I honed problem-solving and data-management skills. Since November 2022, I’ve led CrossFit & HIFT coaching at Culture Fitness Mijas, applying data-driven training and team leadership—abilities I transfer directly to managing IT projects. Fluent in Spanish and intermediate in English, I’m proficient with MySQL Workbench, VS Code, Git/GitHub, Trello/Notion, Figma and Google Workspace.
+ </p>
     <a href="mailto:lionbeat.adm@gmail.com">Say hi →</a>
     </section>`;
 };

@@ -5,10 +5,10 @@ export const Footer = () => `
 
 <h2>Contact</h2>
 <div>
-${Button("/icons/twitter.png", "Twitter")}
-${Button("/public/github.jpeg", "GitHub")}
-${Button("/icons/linkedin.jpeg", "LinkedIn")}
-${Button("/icons/telegram.jpg", "Telegram")}
-${Button("/icons/instagram.png", "Instagram")}
+${Button("/public/twitter.png", "Twitter","https://x.com/ricardosuna_?s=21&t=t5cWmIsh7_0yRx3xo5Aq5g")}
+${Button("/public/github.jpeg", "GitHub","https://github.com/1997Ricardo")}
+${Button("/public/linkedin.jpeg", "LinkedIn","https://www.linkedin.com/in/ricardo-osuna-rodr%C3%ADguez-a48219227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app")}
+${Button("/public/telegram.jpg", "Telegram")}
+${Button("/public/instagram.png", "Instagram","https://www.instagram.com/lionbeat__?igsh=cWhwOW41ajY5NXNu&utm_source=qr")}
 </div>
 `;
