@@ -15,7 +15,7 @@
   }
   
   .home > h1 {
-    font-size: 3 rem;
+    font-size: 4 rem;
     background: linear-gradient(to right, #9845e8 0%, #33d2ff 50%, #dd5789 100%);
     -webkit-background-clip: text;
     background-clip: text;
